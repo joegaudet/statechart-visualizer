@@ -1,0 +1,1 @@
+chrome.extension.getBackgroundPage().logit("HI MOTHER FUCKERS from the popup page");

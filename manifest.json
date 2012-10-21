@@ -1,0 +1,12 @@
+{
+  "name": "SproutCore Statechart Visualizer",
+  "version": "1.1",
+  "manifest_version": 2,
+  "description": "Extension for inspecting and visualizing statecharts inside of SproutCore applications.",
+  "minimum_chrome_version": "10.0",
+  "devtools_page": "devtools.html",
+  "background": {
+	  "persistent": true,
+      "page": "background.html"
+   }
+}	
